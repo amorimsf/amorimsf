@@ -1,7 +1,3 @@
-<img align="right" height="185" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e474csug9nbpn9x2vba3gx1uyl6b9vgi6nzx57j4x77&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-amorim-b24b66282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -15,6 +11,12 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amorimsf.amorimsf&left_text=visitantes"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="188" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e474csug9nbpn9x2vba3gx1uyl6b9vgi6nzx57j4x77&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -67,13 +69,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/amorimsf/amorimsf/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/amorim.sf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=amorim.sf&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
